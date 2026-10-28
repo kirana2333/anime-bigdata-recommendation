@@ -1,0 +1,10 @@
+{
+  "best_alpha": 0.5,
+  "train_count": 65696,
+  "test_count": 11499,
+  "evaluated_users": 100,
+  "candidate_items": 849,
+  "top_k": 10,
+  "positive_threshold": 8,
+  "min_item_ratings": 20
+}

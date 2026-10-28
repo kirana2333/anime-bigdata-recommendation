@@ -1,0 +1,13 @@
+{
+  "best_rank": 6,
+  "best_regParam": 0.15,
+  "train_count": 53891,
+  "valid_count": 11599,
+  "test_count": 11705,
+  "final_train_count": 65490,
+  "test_evaluated": 11508,
+  "test_rmse": 1.2036480259944624,
+  "test_mae": 0.9139682830446993,
+  "baseline_rmse": 1.5339099211279303,
+  "test_coverage": 0.9831695856471593
+}

@@ -1,0 +1,8 @@
+{
+  "train_count": 61548,
+  "test_count": 15647,
+  "evaluated_count": 15368,
+  "rmse": 1.218906967702519,
+  "mae": 0.9195069748867557,
+  "baseline_rmse": 1.5169465246741818
+}

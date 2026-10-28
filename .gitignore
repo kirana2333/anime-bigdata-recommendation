@@ -1,0 +1,38 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 原始数据和处理后的大文件
+data/raw/
+data/processed/
+
+# 训练模型
+models/
+
+# 临时备份
+*.bak
+*.bak.*
+
+# 日志
+*.log
+
+# Streamlit 私密配置
+.streamlit/secrets.toml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Spark / Hadoop 自动生成的文件
+*.crc
+_SUCCESS
+*.crc.*
+
+# 临时文件
+*.tmp
+*.swp

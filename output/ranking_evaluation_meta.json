@@ -1,0 +1,9 @@
+{
+  "evaluated_users": 100,
+  "selected_users": 100,
+  "train_count": 65676,
+  "test_count": 11519,
+  "min_item_ratings": 20,
+  "positive_rating_threshold": 8,
+  "top_k": 10
+}

@@ -1,0 +1,201 @@
+user_id,rank,anime_id,name,type,genre,predicted_rating,dataset_rating,members
+5,1,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,"Action, Drama, Historical, Martial Arts, Romance, Samurai",7.45674467086792,8.83,129307
+5,2,16662,Kaze Tachinu,Movie,"Drama, Historical, Romance",7.383883953094482,8.24,75359
+5,3,1,Cowboy Bebop,TV,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",7.181084156036377,8.82,486824
+5,4,4282,Kara no Kyoukai 5: Mujun Rasen,Movie,"Action, Drama, Mystery, Romance, Supernatural, Thriller",7.1635661125183105,8.68,111074
+5,5,8142,Colorful (Movie),Movie,"Drama, Slice of Life, Supernatural",7.145813465118408,8.06,63263
+5,6,5205,Kara no Kyoukai 7: Satsujin Kousatsu (Kou),Movie,"Action, Mystery, Romance, Supernatural, Thriller",6.964583396911621,8.57,95658
+5,7,12115,Berserk: Ougon Jidai-hen III - Kourin,Movie,"Action, Adventure, Demons, Drama, Fantasy, Horror, Military, Seinen, Supernatural",6.900142669677734,8.33,65594
+5,8,3002,Gyakkyou Burai Kaiji: Ultimate Survivor,TV,"Game, Psychological, Seinen, Thriller",6.8643975257873535,8.33,98996
+5,9,339,Serial Experiments Lain,TV,"Dementia, Drama, Mystery, Psychological, Sci-Fi, Supernatural",6.859318733215332,7.99,215829
+5,10,8740,One Piece Film: Strong World Episode 0,OVA,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",6.797672271728516,8.16,33862
+123,1,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.11057186126709,9.04,336376
+123,2,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.09067153930664,9.11,81109
+123,3,8142,Colorful (Movie),Movie,"Drama, Slice of Life, Supernatural",9.068161010742188,8.06,63263
+123,4,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.054007530212402,9.16,151266
+123,5,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.727404594421387,9.1,72534
+123,6,6594,Katanagatari,TV,"Action, Adventure, Historical, Martial Arts, Romance",8.706317901611328,8.49,207241
+123,7,4901,Black Lagoon: Roberta's Blood Trail,OVA,"Action, Seinen",8.704601287841797,8.15,108099
+123,8,532,Bishoujo Senshi Sailor Moon S,TV,"Drama, Magic, Romance, Shoujo",8.70417594909668,7.89,66911
+123,9,47,Akira,Movie,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",8.65380859375,8.15,215897
+123,10,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",8.649955749511719,9.13,425855
+160,1,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.905548095703125,9.11,81109
+160,2,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",9.771623611450195,9.13,425855
+160,3,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.737409591674805,9.1,72534
+160,4,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.653465270996094,9.16,151266
+160,5,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.651885986328125,9.04,336376
+160,6,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",9.639715194702148,8.64,139474
+160,7,5114,Fullmetal Alchemist: Brotherhood,TV,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",9.639483451843262,9.26,793665
+160,8,32182,Mob Psycho 100,TV,"Action, Comedy, Slice of Life, Supernatural",9.62486743927002,8.55,193716
+160,9,18689,Diamond no Ace,TV,"Comedy, School, Shounen, Sports",9.613934516906738,8.25,81384
+160,10,26055,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season,TV,"Action, Adventure, Drama, Shounen, Supernatural",9.530855178833008,8.6,93657
+226,1,12729,High School DxD OVA,OVA,"Comedy, Demons, Ecchi, Romance, School",9.130693435668945,7.47,91154
+226,2,13391,Rakuen Tsuihou: Expelled from Paradise,Movie,"Action, Mecha, Sci-Fi",9.085702896118164,7.59,46678
+226,3,12711,Uta no☆Prince-sama♪ Maji Love 2000%,TV,"Comedy, Harem, Music, Romance, School, Shoujo",8.861750602722168,7.53,61551
+226,4,94,Mobile Suit Gundam Seed Destiny,TV,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",8.757195472717285,7.36,65896
+226,5,25731,Cross Ange: Tenshi to Ryuu no Rondo,TV,"Action, Mecha, Sci-Fi",8.7197847366333,7.47,75807
+226,6,93,Mobile Suit Gundam Seed,TV,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",8.706098556518555,7.93,96973
+226,7,9863,SKET Dance,TV,"Comedy, School, Shounen",8.641637802124023,8.36,101027
+226,8,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.584633827209473,9.11,81109
+226,9,9790,Sora no Otoshimono: Tokeijikake no Angeloid,Movie,"Comedy, Drama, Ecchi, Harem, Romance, Sci-Fi, Shounen, Supernatural",8.579755783081055,7.87,70391
+226,10,3927,Mobile Suit Gundam 00 Second Season,TV,"Action, Drama, Mecha, Military, Sci-Fi, Space",8.560920715332031,8.21,86972
+271,1,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",10.000825881958008,8.64,139474
+271,2,15751,Senyuu.,TV,"Action, Comedy, Fantasy, Parody, Shounen",9.79166316986084,7.49,56815
+271,3,9863,SKET Dance,TV,"Comedy, School, Shounen",9.771385192871094,8.36,101027
+271,4,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,"Action, Drama, Historical, Martial Arts, Romance, Samurai",9.703557014465332,8.83,129307
+271,5,5205,Kara no Kyoukai 7: Satsujin Kousatsu (Kou),Movie,"Action, Mystery, Romance, Supernatural, Thriller",9.61142349243164,8.57,95658
+271,6,147,Kimi ga Nozomu Eien,TV,"Drama, Romance, Slice of Life",9.57474422454834,7.41,90379
+271,7,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.524442672729492,9.16,151266
+271,8,12365,Bakuman. 3rd Season,TV,"Comedy, Drama, Romance, Shounen",9.506254196166992,8.71,133620
+271,9,855,Strawberry Panic,TV,"Drama, Romance, School, Shoujo Ai",9.506160736083984,7.45,72790
+271,10,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.482437133789062,9.1,72534
+294,1,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.375422477722168,9.1,72534
+294,2,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",9.319185256958008,9.37,200630
+294,3,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.261405944824219,9.11,81109
+294,4,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.228466033935547,9.16,151266
+294,5,9863,SKET Dance,TV,"Comedy, School, Shounen",9.209538459777832,8.36,101027
+294,6,245,Great Teacher Onizuka,TV,"Comedy, Drama, School, Shounen, Slice of Life",9.183086395263672,8.77,268487
+294,7,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.067059516906738,9.04,336376
+294,8,19815,No Game No Life,TV,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",9.018112182617188,8.47,602291
+294,9,93,Mobile Suit Gundam Seed,TV,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",8.99160099029541,7.93,96973
+294,10,10162,Usagi Drop,TV,"Josei, Slice of Life",8.973434448242188,8.56,194855
+392,1,10721,Mawaru Penguindrum,TV,"Comedy, Drama, Mystery, Psychological",7.7902398109436035,8.08,156689
+392,2,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",7.742094039916992,9.37,200630
+392,3,21939,Mushishi Zoku Shou,TV,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",7.72385311126709,8.8,101351
+392,4,4789,ef: A Tale of Melodies.,TV,"Drama, Mystery, Romance, Supernatural",7.681636810302734,8.18,103657
+392,5,523,Tonari no Totoro,Movie,"Adventure, Comedy, Supernatural",7.63808012008667,8.48,271484
+392,6,14719,JoJo no Kimyou na Bouken (TV),TV,"Action, Adventure, Shounen, Supernatural, Vampire",7.604001045227051,8.51,190197
+392,7,10271,Gyakkyou Burai Kaiji: Hakairoku-hen,TV,"Game, Psychological, Seinen, Thriller",7.560836315155029,8.29,55566
+392,8,11577,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,Movie,"Sci-Fi, Thriller",7.511374473571777,8.61,192424
+392,9,512,Majo no Takkyuubin,Movie,"Adventure, Comedy, Drama, Fantasy, Magic, Romance",7.502533912658691,8.27,152331
+392,10,5,Cowboy Bebop: Tengoku no Tobira,Movie,"Action, Drama, Mystery, Sci-Fi, Space",7.436345100402832,8.4,137636
+446,1,3702,Detroit Metal City,OVA,"Comedy, Music",9.279451370239258,8.26,104893
+446,2,245,Great Teacher Onizuka,TV,"Comedy, Drama, School, Shounen, Slice of Life",9.178421020507812,8.77,268487
+446,3,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.086712837219238,9.1,72534
+446,4,5258,Hajime no Ippo: New Challenger,TV,"Comedy, Drama, Shounen, Sports",9.073073387145996,8.75,88995
+446,5,19647,Hajime no Ippo: Rising,TV,"Comedy, Drama, Shounen, Sports",9.037094116210938,8.68,66756
+446,6,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.994872093200684,9.11,81109
+446,7,801,Ghost in the Shell: Stand Alone Complex 2nd GIG,TV,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",8.969985961914062,8.57,113993
+446,8,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",8.937527656555176,9.37,200630
+446,9,263,Hajime no Ippo,TV,"Comedy, Drama, Shounen, Sports",8.909770011901855,8.83,157670
+446,10,18689,Diamond no Ace,TV,"Comedy, School, Shounen, Sports",8.882728576660156,8.25,81384
+478,1,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",10.256699562072754,8.64,139474
+478,2,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.222590446472168,9.1,72534
+478,3,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.17716121673584,9.16,151266
+478,4,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.138691902160645,9.11,81109
+478,5,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",10.025318145751953,9.13,425855
+478,6,9863,SKET Dance,TV,"Comedy, School, Shounen",10.011804580688477,8.36,101027
+478,7,263,Hajime no Ippo,TV,"Comedy, Drama, Shounen, Sports",9.979702949523926,8.83,157670
+478,8,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",9.967037200927734,9.37,200630
+478,9,18689,Diamond no Ace,TV,"Comedy, School, Shounen, Sports",9.952436447143555,8.25,81384
+478,10,245,Great Teacher Onizuka,TV,"Comedy, Drama, School, Shounen, Slice of Life",9.939281463623047,8.77,268487
+511,1,6634,Sengoku Basara Two,TV,"Action, Historical, Martial Arts, Samurai, Super Power",8.97314453125,7.74,42798
+511,2,32729,Orange,TV,"Drama, Romance, School, Sci-Fi, Shoujo",8.944478988647461,7.78,165358
+511,3,19,Monster,TV,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",8.829575538635254,8.72,247562
+511,4,1723,Clannad Movie,Movie,"Drama, Fantasy, Romance, School",8.737628936767578,7.35,99506
+511,5,7311,Suzumiya Haruhi no Shoushitsu,Movie,"Comedy, Mystery, Romance, School, Sci-Fi, Supernatural",8.664441108703613,8.81,240297
+511,6,31181,Owarimonogatari,TV,"Comedy, Mystery, Supernatural",8.623152732849121,8.43,107855
+511,7,4382,Suzumiya Haruhi no Yuuutsu (2009),TV,"Comedy, Mystery, Parody, Romance, School, Sci-Fi, Slice of Life",8.615272521972656,7.28,243448
+511,8,5355,Sengoku Basara,TV,"Action, Historical, Martial Arts, Samurai, Super Power",8.614574432373047,7.57,93940
+511,9,27833,Durarara!!x2 Ketsu,TV,"Action, Mystery, Supernatural",8.527629852294922,8.23,115295
+511,10,19671,Free!: FrFr - Short Movie,Special,"Comedy, Sports",8.524083137512207,7.8,35956
+553,1,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.090150833129883,9.1,72534
+553,2,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",10.018803596496582,9.37,200630
+553,3,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",9.937318801879883,9.13,425855
+553,4,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,"Action, Drama, Historical, Martial Arts, Romance, Samurai",9.908530235290527,8.83,129307
+553,5,5114,Fullmetal Alchemist: Brotherhood,TV,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",9.893518447875977,9.26,793665
+553,6,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",9.882874488830566,8.64,139474
+553,7,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.865331649780273,9.11,81109
+553,8,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.751569747924805,9.04,336376
+553,9,21939,Mushishi Zoku Shou,TV,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",9.72044849395752,8.8,101351
+553,10,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.687055587768555,9.16,151266
+661,1,9863,SKET Dance,TV,"Comedy, School, Shounen",9.070587158203125,8.36,101027
+661,2,5177,Denpa-teki na Kanojo,OVA,"Mystery, School, Thriller",8.929863929748535,7.79,85409
+661,3,30276,One Punch Man,TV,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",8.880857467651367,8.82,552458
+661,4,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",8.857551574707031,9.37,200630
+661,5,31043,Boku dake ga Inai Machi,TV,"Mystery, Psychological, Seinen, Supernatural",8.856565475463867,8.65,402381
+661,6,28805,Bakemono no Ko,Movie,"Adventure, Supernatural",8.842620849609375,8.58,80825
+661,7,32998,91 Days,TV,"Action, Drama, Historical",8.822968482971191,7.93,140604
+661,8,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",8.801673889160156,8.64,139474
+661,9,12365,Bakuman. 3rd Season,TV,"Comedy, Drama, Romance, Shounen",8.800315856933594,8.71,133620
+661,10,11665,Natsume Yuujinchou Shi,TV,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",8.798271179199219,8.75,98431
+741,1,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,"Action, Drama, Historical, Martial Arts, Romance, Samurai",9.163701057434082,8.83,129307
+741,2,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.117356300354004,9.16,151266
+741,3,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.005746841430664,9.04,336376
+741,4,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",8.950661659240723,8.64,139474
+741,5,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.946731567382812,9.1,72534
+741,6,28805,Bakemono no Ko,Movie,"Adventure, Supernatural",8.92618179321289,8.58,80825
+741,7,877,Nana,TV,"Comedy, Drama, Music, Romance, Shoujo, Slice of Life",8.900301933288574,8.55,197256
+741,8,523,Tonari no Totoro,Movie,"Adventure, Comedy, Supernatural",8.887555122375488,8.48,271484
+741,9,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.865385055541992,9.11,81109
+741,10,431,Howl no Ugoku Shiro,Movie,"Adventure, Drama, Fantasy, Romance",8.796523094177246,8.74,333186
+771,1,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.129951477050781,9.1,72534
+771,2,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",7.954782962799072,9.13,425855
+771,3,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,"Action, Drama, Historical, Martial Arts, Romance, Samurai",7.901370048522949,8.83,129307
+771,4,5258,Hajime no Ippo: New Challenger,TV,"Comedy, Drama, Shounen, Sports",7.860581398010254,8.75,88995
+771,5,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",7.827811241149902,9.37,200630
+771,6,263,Hajime no Ippo,TV,"Comedy, Drama, Shounen, Sports",7.812713623046875,8.83,157670
+771,7,199,Sen to Chihiro no Kamikakushi,Movie,"Adventure, Drama, Supernatural",7.763197898864746,8.93,466254
+771,8,170,Slam Dunk,TV,"Comedy, Drama, School, Shounen, Sports",7.745243072509766,8.56,82570
+771,9,21939,Mushishi Zoku Shou,TV,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",7.710771560668945,8.8,101351
+771,10,19647,Hajime no Ippo: Rising,TV,"Comedy, Drama, Shounen, Sports",7.708874702453613,8.68,66756
+784,1,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.60905647277832,9.11,81109
+784,2,22135,Ping Pong The Animation,TV,"Psychological, Seinen, Sports",8.595026016235352,8.67,97187
+784,3,5114,Fullmetal Alchemist: Brotherhood,TV,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",8.589259147644043,9.26,793665
+784,4,28891,Haikyuu!! Second Season,TV,"Comedy, Drama, School, Shounen, Sports",8.511537551879883,8.93,179342
+784,5,44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,OVA,"Action, Drama, Historical, Martial Arts, Romance, Samurai",8.485918045043945,8.83,129307
+784,6,18689,Diamond no Ace,TV,"Comedy, School, Shounen, Sports",8.484521865844727,8.25,81384
+784,7,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",8.477062225341797,8.64,139474
+784,8,16662,Kaze Tachinu,Movie,"Drama, Historical, Romance",8.433879852294922,8.24,75359
+784,9,5258,Hajime no Ippo: New Challenger,TV,"Comedy, Drama, Shounen, Sports",8.412904739379883,8.75,88995
+784,10,170,Slam Dunk,TV,"Comedy, Drama, School, Shounen, Sports",8.400442123413086,8.56,82570
+786,1,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",9.93155574798584,9.13,425855
+786,2,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.92000961303711,9.1,72534
+786,3,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.872727394104004,9.11,81109
+786,4,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",9.824552536010742,8.64,139474
+786,5,245,Great Teacher Onizuka,TV,"Comedy, Drama, School, Shounen, Slice of Life",9.677602767944336,8.77,268487
+786,6,32182,Mob Psycho 100,TV,"Action, Comedy, Slice of Life, Supernatural",9.643327713012695,8.55,193716
+786,7,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.617209434509277,9.16,151266
+786,8,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.597869873046875,9.04,336376
+786,9,21939,Mushishi Zoku Shou,TV,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",9.564324378967285,8.8,101351
+786,10,27833,Durarara!!x2 Ketsu,TV,"Action, Mystery, Supernatural",9.496498107910156,8.23,115295
+861,1,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.989702224731445,9.1,72534
+861,2,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",8.964127540588379,8.64,139474
+861,3,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",8.893899917602539,9.37,200630
+861,4,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",8.675589561462402,9.11,81109
+861,5,11577,Steins;Gate Movie: Fuka Ryouiki no Déjà vu,Movie,"Sci-Fi, Thriller",8.658143997192383,8.61,192424
+861,6,21939,Mushishi Zoku Shou,TV,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",8.646003723144531,8.8,101351
+861,7,5205,Kara no Kyoukai 7: Satsujin Kousatsu (Kou),Movie,"Action, Mystery, Romance, Supernatural, Thriller",8.593304634094238,8.57,95658
+861,8,9863,SKET Dance,TV,"Comedy, School, Shounen",8.582782745361328,8.36,101027
+861,9,13125,Shinsekai yori,TV,"Drama, Horror, Mystery, Sci-Fi, Supernatural",8.529569625854492,8.53,288376
+861,10,199,Sen to Chihiro no Kamikakushi,Movie,"Adventure, Drama, Supernatural",8.509568214416504,8.93,466254
+943,1,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.726816177368164,9.16,151266
+943,2,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.70725154876709,9.1,72534
+943,3,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",9.700338363647461,8.64,139474
+943,4,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.692712783813477,9.11,81109
+943,5,9863,SKET Dance,TV,"Comedy, School, Shounen",9.676642417907715,8.36,101027
+943,6,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",9.58906078338623,9.37,200630
+943,7,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",9.576086044311523,9.13,425855
+943,8,918,Gintama,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.508115768432617,9.04,336376
+943,9,19363,Gin no Saji 2nd Season,TV,"Comedy, School, Shounen, Slice of Life",9.449902534484863,8.36,67032
+943,10,4155,One Piece Film: Strong World,Movie,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",9.42489242553711,8.42,85020
+954,1,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.826869010925293,9.1,72534
+954,2,9253,Steins;Gate,TV,"Sci-Fi, Thriller",10.774548530578613,9.17,673572
+954,3,263,Hajime no Ippo,TV,"Comedy, Drama, Shounen, Sports",10.628460884094238,8.83,157670
+954,4,6114,Rainbow: Nisha Rokubou no Shichinin,TV,"Drama, Historical, Seinen, Thriller",10.551156044006348,8.64,139474
+954,5,245,Great Teacher Onizuka,TV,"Comedy, Drama, School, Shounen, Slice of Life",10.507716178894043,8.77,268487
+954,6,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.506048202514648,9.16,151266
+954,7,5258,Hajime no Ippo: New Challenger,TV,"Comedy, Drama, Shounen, Sports",10.483311653137207,8.75,88995
+954,8,2001,Tengen Toppa Gurren Lagann,TV,"Action, Adventure, Comedy, Mecha, Sci-Fi",10.476215362548828,8.78,562962
+954,9,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",10.416439056396484,9.11,81109
+954,10,11061,Hunter x Hunter (2011),TV,"Action, Adventure, Shounen, Super Power",10.327007293701172,9.13,425855
+958,1,15335,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,Movie,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.318860054016113,9.1,72534
+958,2,32281,Kimi no Na wa.,Movie,"Drama, Romance, School, Supernatural",9.170760154724121,9.37,200630
+958,3,9969,Gintama',TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.168936729431152,9.16,151266
+958,4,15417,Gintama': Enchousen,TV,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",9.093555450439453,9.11,81109
+958,5,11665,Natsume Yuujinchou Shi,TV,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",9.07121753692627,8.75,98431
+958,6,10379,Natsume Yuujinchou San,TV,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",9.003206253051758,8.67,102322
+958,7,263,Hajime no Ippo,TV,"Comedy, Drama, Shounen, Sports",8.95870590209961,8.83,157670
+958,8,24415,Kuroko no Basket 3rd Season,TV,"Comedy, School, Shounen, Sports",8.946797370910645,8.62,184525
+958,9,27833,Durarara!!x2 Ketsu,TV,"Action, Mystery, Supernatural",8.936440467834473,8.23,115295
+958,10,170,Slam Dunk,TV,"Comedy, Drama, School, Shounen, Sports",8.935568809509277,8.56,82570

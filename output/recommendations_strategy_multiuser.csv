@@ -1,0 +1,601 @@
+user_id,strategy,rank,anime_id,score,name,genre,type
+478,Hybrid,1,2904,0.898787,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+478,Hybrid,2,5114,0.889122,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+478,Hybrid,3,1575,0.880409,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+478,Hybrid,4,2001,0.789796,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+478,Hybrid,5,1,0.783542,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV
+478,Hybrid,6,6746,0.771223,Durarara!!,"Action, Mystery, Supernatural",TV
+478,Hybrid,7,11061,0.75489,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+478,Hybrid,8,22535,0.725459,Kiseijuu: Sei no Kakuritsu,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV
+478,Hybrid,9,245,0.720435,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+478,Hybrid,10,6702,0.715941,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+478,ALS,1,11061,1.0,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+478,ALS,2,6114,0.965726,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+478,ALS,3,2904,0.947666,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+478,ALS,4,245,0.946151,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+478,ALS,5,1,0.929634,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV
+478,ALS,6,15417,0.927812,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+478,ALS,7,44,0.917409,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+478,ALS,8,19,0.914936,Monster,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV
+478,ALS,9,9969,0.911647,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+478,ALS,10,6675,0.911336,Redline,"Action, Cars, Sci-Fi, Sports",Movie
+478,Popularity,1,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+478,Popularity,2,1575,0.869793,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+478,Popularity,3,2904,0.849908,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+478,Popularity,4,6746,0.772097,Durarara!!,"Action, Mystery, Supernatural",TV
+478,Popularity,5,11617,0.747236,High School DxD,"Comedy, Demons, Ecchi, Harem, Romance, School",TV
+478,Popularity,6,6702,0.724389,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+478,Popularity,7,2001,0.704112,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+478,Popularity,8,7054,0.67582,Kaichou wa Maid-sama!,"Comedy, Romance, School, Shoujo",TV
+478,Popularity,9,853,0.673544,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+478,Popularity,10,4898,0.671252,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+958,Hybrid,1,13759,0.742508,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+958,Hybrid,2,5081,0.72652,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",TV
+958,Hybrid,3,853,0.708969,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+958,Hybrid,4,4898,0.691031,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+958,Hybrid,5,14813,0.687851,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,"Comedy, Drama, Romance, School",TV
+958,Hybrid,6,2025,0.674407,Darker than Black: Kuro no Keiyakusha,"Action, Mystery, Sci-Fi, Super Power",TV
+958,Hybrid,7,205,0.669308,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",TV
+958,Hybrid,8,777,0.65977,Hellsing Ultimate,"Action, Horror, Military, Seinen, Supernatural, Vampire",OVA
+958,Hybrid,9,31240,0.649951,Re:Zero kara Hajimeru Isekai Seikatsu,"Drama, Fantasy, Psychological, Thriller",TV
+958,Hybrid,10,17074,0.647108,Monogatari Series: Second Season,"Comedy, Mystery, Romance, Supernatural, Vampire",TV
+958,ALS,1,15335,1.0,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+958,ALS,2,9969,0.990308,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+958,ALS,3,15417,0.978639,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+958,ALS,4,918,0.937019,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+958,ALS,5,19647,0.918741,Hajime no Ippo: Rising,"Comedy, Drama, Shounen, Sports",TV
+958,ALS,6,263,0.911728,Hajime no Ippo,"Comedy, Drama, Shounen, Sports",TV
+958,ALS,7,170,0.90255,Slam Dunk,"Comedy, Drama, School, Shounen, Sports",TV
+958,ALS,8,5258,0.896955,Hajime no Ippo: New Challenger,"Comedy, Drama, Shounen, Sports",TV
+958,ALS,9,31240,0.8778,Re:Zero kara Hajimeru Isekai Seikatsu,"Drama, Fantasy, Psychological, Thriller",TV
+958,ALS,10,28891,0.872711,Haikyuu!! Second Season,"Comedy, Drama, School, Shounen, Sports",TV
+958,Popularity,1,5081,0.730245,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",TV
+958,Popularity,2,13759,0.702017,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+958,Popularity,3,14813,0.702017,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,"Comedy, Drama, Romance, School",TV
+958,Popularity,4,10719,0.678081,Boku wa Tomodachi ga Sukunai,"Comedy, Ecchi, Harem, Romance, School, Seinen, Slice of Life",TV
+958,Popularity,5,853,0.673544,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+958,Popularity,6,4898,0.671252,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+958,Popularity,7,2025,0.627146,Darker than Black: Kuro no Keiyakusha,"Action, Mystery, Sci-Fi, Super Power",TV
+958,Popularity,8,1195,0.624521,Zero no Tsukaima,"Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Magic, Romance, School",TV
+958,Popularity,9,6347,0.611085,Baka to Test to Shoukanjuu,"Comedy, Romance, School, Super Power",TV
+958,Popularity,10,8841,0.605559,Kore wa Zombie Desu ka?,"Action, Comedy, Ecchi, Harem, Magic, Supernatural",TV
+226,Hybrid,1,9989,0.752251,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+226,Hybrid,2,199,0.7316,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+226,Hybrid,3,14345,0.723394,Btooom!,"Action, Psychological, Sci-Fi, Seinen",TV
+226,Hybrid,4,31043,0.699213,Boku dake ga Inai Machi,"Mystery, Psychological, Seinen, Supernatural",TV
+226,Hybrid,5,853,0.676161,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+226,Hybrid,6,5680,0.666912,K-On!,"Comedy, Music, School, Slice of Life",TV
+226,Hybrid,7,18679,0.666488,Kill la Kill,"Action, Comedy, School, Super Power",TV
+226,Hybrid,8,431,0.664157,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+226,Hybrid,9,14289,0.658991,Sukitte Ii na yo.,"Romance, School, Shoujo",TV
+226,Hybrid,10,11887,0.65198,Kokoro Connect,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+226,ALS,1,25731,1.0,Cross Ange: Tenshi to Ryuu no Rondo,"Action, Mecha, Sci-Fi",TV
+226,ALS,2,28621,0.89021,Subete ga F ni Naru: The Perfect Insider,"Mystery, Psychological, Sci-Fi",TV
+226,ALS,3,28805,0.869493,Bakemono no Ko,"Adventure, Supernatural",Movie
+226,ALS,4,12729,0.868706,High School DxD OVA,"Comedy, Demons, Ecchi, Romance, School",OVA
+226,ALS,5,123,0.854189,Fushigi Yuugi,"Adventure, Comedy, Drama, Fantasy, Historical, Magic, Martial Arts, Romance, Shoujo",TV
+226,ALS,6,6895,0.830421,Hakuouki,"Action, Drama, Historical, Josei, Samurai, Supernatural",TV
+226,ALS,7,12711,0.824993,Uta no☆Prince-sama♪ Maji Love 2000%,"Comedy, Harem, Music, Romance, School, Shoujo",TV
+226,ALS,8,31043,0.824962,Boku dake ga Inai Machi,"Mystery, Psychological, Seinen, Supernatural",TV
+226,ALS,9,6114,0.817004,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+226,ALS,10,4155,0.810204,One Piece Film: Strong World,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie
+226,Popularity,1,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+226,Popularity,2,199,0.736003,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+226,Popularity,3,30,0.714401,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+226,Popularity,4,14345,0.699909,Btooom!,"Action, Psychological, Sci-Fi, Seinen",TV
+226,Popularity,5,18679,0.695653,Kill la Kill,"Action, Comedy, School, Super Power",TV
+226,Popularity,6,164,0.678081,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+226,Popularity,7,853,0.673544,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+226,Popularity,8,431,0.634903,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+226,Popularity,9,5680,0.627146,K-On!,"Comedy, Music, School, Slice of Life",TV
+226,Popularity,10,12189,0.624521,Hyouka,"Mystery, School, Slice of Life",TV
+446,Hybrid,1,199,0.837485,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+446,Hybrid,2,30,0.832545,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+446,Hybrid,3,9989,0.810971,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+446,Hybrid,4,9756,0.809522,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",TV
+446,Hybrid,5,14741,0.751395,Chuunibyou demo Koi ga Shitai!,"Comedy, Drama, Romance, School, Slice of Life",TV
+446,Hybrid,6,245,0.74736,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+446,Hybrid,7,12355,0.736285,Ookami Kodomo no Ame to Yuki,"Fantasy, Slice of Life",Movie
+446,Hybrid,8,431,0.733001,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+446,Hybrid,9,20,0.731202,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+446,Hybrid,10,8525,0.730529,Kami nomi zo Shiru Sekai,"Comedy, Harem, Romance, Shounen, Supernatural",TV
+446,ALS,1,245,1.0,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+446,ALS,2,170,0.992624,Slam Dunk,"Comedy, Drama, School, Shounen, Sports",TV
+446,ALS,3,22135,0.975762,Ping Pong The Animation,"Psychological, Seinen, Sports",TV
+446,ALS,4,15335,0.969771,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+446,ALS,5,1943,0.964444,Paprika,"Fantasy, Horror, Mystery, Psychological, Sci-Fi, Thriller",Movie
+446,ALS,6,10165,0.964295,Nichijou,"Comedy, School, Slice of Life",TV
+446,ALS,7,14719,0.958234,JoJo no Kimyou na Bouken (TV),"Action, Adventure, Shounen, Supernatural, Vampire",TV
+446,ALS,8,15417,0.951705,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+446,ALS,9,6675,0.951227,Redline,"Action, Cars, Sci-Fi, Sports",Movie
+446,ALS,10,30,0.950689,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+446,Popularity,1,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+446,Popularity,2,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+446,Popularity,3,9756,0.752717,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",TV
+446,Popularity,4,15809,0.752717,Hataraku Maou-sama!,"Comedy, Demons, Fantasy, Romance, Shounen",TV
+446,Popularity,5,199,0.736003,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+446,Popularity,6,14741,0.724389,Chuunibyou demo Koi ga Shitai!,"Comedy, Drama, Romance, School, Slice of Life",TV
+446,Popularity,7,30,0.714401,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+446,Popularity,8,269,0.693505,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+446,Popularity,9,8769,0.678081,Ore no Imouto ga Konnani Kawaii Wake ga Nai,"Comedy, Seinen, Slice of Life",TV
+446,Popularity,10,11771,0.644979,Kuroko no Basket,"Comedy, School, Shounen, Sports",TV
+294,Hybrid,1,19815,0.84907,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+294,Hybrid,2,22319,0.785206,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+294,Hybrid,3,31043,0.740532,Boku dake ga Inai Machi,"Mystery, Psychological, Seinen, Supernatural",TV
+294,Hybrid,4,245,0.727741,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+294,Hybrid,5,22535,0.725682,Kiseijuu: Sei no Kakuritsu,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV
+294,Hybrid,6,18679,0.723011,Kill la Kill,"Action, Comedy, School, Super Power",TV
+294,Hybrid,7,17265,0.718184,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV
+294,Hybrid,8,20507,0.710946,Noragami,"Action, Adventure, Shounen, Supernatural",TV
+294,Hybrid,9,4898,0.698391,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+294,Hybrid,10,23283,0.684757,Zankyou no Terror,"Psychological, Thriller",TV
+294,ALS,1,9969,1.0,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+294,ALS,2,28805,0.998822,Bakemono no Ko,"Adventure, Supernatural",Movie
+294,ALS,3,245,0.960762,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+294,ALS,4,6675,0.948252,Redline,"Action, Cars, Sci-Fi, Sports",Movie
+294,ALS,5,15417,0.94695,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+294,ALS,6,918,0.942886,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+294,ALS,7,15335,0.931629,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+294,ALS,8,31043,0.907598,Boku dake ga Inai Machi,"Mystery, Psychological, Seinen, Supernatural",TV
+294,ALS,9,19363,0.90475,Gin no Saji 2nd Season,"Comedy, School, Shounen, Slice of Life",TV
+294,ALS,10,10162,0.896781,Usagi Drop,"Josei, Slice of Life",TV
+294,Popularity,1,19815,0.801619,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+294,Popularity,2,22319,0.783882,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+294,Popularity,3,18679,0.695653,Kill la Kill,"Action, Comedy, School, Super Power",TV
+294,Popularity,4,20507,0.693505,Noragami,"Action, Adventure, Shounen, Supernatural",TV
+294,Popularity,5,15583,0.673544,Date A Live,"Comedy, Harem, Mecha, Romance, School, Sci-Fi",TV
+294,Popularity,6,4898,0.671252,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+294,Popularity,7,17265,0.654768,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV
+294,Popularity,8,20787,0.629751,Black Bullet,"Action, Mystery, Sci-Fi, Seinen",TV
+294,Popularity,9,23283,0.621875,Zankyou no Terror,"Psychological, Thriller",TV
+294,Popularity,10,27899,0.613815,Tokyo Ghoul √A,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+661,Hybrid,1,9989,0.813052,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+661,Hybrid,2,199,0.809226,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+661,Hybrid,3,22319,0.747514,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+661,Hybrid,4,1,0.746678,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV
+661,Hybrid,5,9919,0.740346,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+661,Hybrid,6,431,0.734769,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+661,Hybrid,7,11771,0.720405,Kuroko no Basket,"Comedy, School, Shounen, Sports",TV
+661,Hybrid,8,269,0.71056,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+661,Hybrid,9,6746,0.708303,Durarara!!,"Action, Mystery, Supernatural",TV
+661,Hybrid,10,6702,0.70271,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+661,ALS,1,801,1.0,Ghost in the Shell: Stand Alone Complex 2nd GIG,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",TV
+661,ALS,2,44,0.966518,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+661,ALS,3,6114,0.955197,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+661,ALS,4,6675,0.932711,Redline,"Action, Cars, Sci-Fi, Sports",Movie
+661,ALS,5,467,0.925862,Ghost in the Shell: Stand Alone Complex,"Action, Mecha, Military, Police, Sci-Fi, Seinen",TV
+661,ALS,6,28805,0.913475,Bakemono no Ko,"Adventure, Supernatural",Movie
+661,ALS,7,24415,0.912833,Kuroko no Basket 3rd Season,"Comedy, School, Shounen, Sports",TV
+661,ALS,8,16662,0.894917,Kaze Tachinu,"Drama, Historical, Romance",Movie
+661,ALS,9,457,0.894886,Mushishi,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV
+661,ALS,10,199,0.88245,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+661,Popularity,1,9919,0.858001,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+661,Popularity,2,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+661,Popularity,3,22319,0.783882,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+661,Popularity,4,3588,0.775506,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+661,Popularity,5,6746,0.772097,Durarara!!,"Action, Mystery, Supernatural",TV
+661,Popularity,6,6880,0.763424,Deadman Wonderland,"Action, Horror, Sci-Fi",TV
+661,Popularity,7,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+661,Popularity,8,199,0.736003,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+661,Popularity,9,6702,0.724389,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+661,Popularity,10,14345,0.699909,Btooom!,"Action, Psychological, Sci-Fi, Seinen",TV
+271,Hybrid,1,5114,0.852943,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+271,Hybrid,2,16498,0.844348,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+271,Hybrid,3,6547,0.84162,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV
+271,Hybrid,4,2904,0.830266,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+271,Hybrid,5,1575,0.813794,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+271,Hybrid,6,199,0.808848,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+271,Hybrid,7,19815,0.786974,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+271,Hybrid,8,9919,0.775255,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+271,Hybrid,9,6746,0.765675,Durarara!!,"Action, Mystery, Supernatural",TV
+271,Hybrid,10,1,0.763748,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV
+271,ALS,1,15417,1.0,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+271,ALS,2,3092,0.998491,Junjou Romantica,"Comedy, Drama, Romance, Shounen Ai",TV
+271,ALS,3,578,0.998224,Hotaru no Haka,"Drama, Historical",Movie
+271,ALS,4,9969,0.983425,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+271,ALS,5,237,0.977262,Eureka Seven,"Adventure, Drama, Mecha, Romance, Sci-Fi",TV
+271,ALS,6,4814,0.971179,Junjou Romantica 2,"Comedy, Drama, Romance, Shounen Ai",TV
+271,ALS,7,11123,0.97114,Sekaiichi Hatsukoi 2,"Comedy, Drama, Romance, Shounen Ai",TV
+271,ALS,8,6114,0.968827,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+271,ALS,9,10721,0.95827,Mawaru Penguindrum,"Comedy, Drama, Mystery, Psychological",TV
+271,ALS,10,57,0.939896,Beck,"Comedy, Drama, Music, Shounen, Slice of Life",TV
+271,Popularity,1,16498,0.987443,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+271,Popularity,2,6547,0.926625,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV
+271,Popularity,3,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+271,Popularity,4,1575,0.869793,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+271,Popularity,5,8074,0.865907,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",TV
+271,Popularity,6,9919,0.858001,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+271,Popularity,7,2904,0.849908,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+271,Popularity,8,19815,0.801619,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+271,Popularity,9,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+271,Popularity,10,3588,0.775506,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+392,Hybrid,1,6746,0.797637,Durarara!!,"Action, Mystery, Supernatural",TV
+392,Hybrid,2,226,0.771194,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+392,Hybrid,3,18679,0.739579,Kill la Kill,"Action, Comedy, School, Super Power",TV
+392,Hybrid,4,13601,0.732077,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",TV
+392,Hybrid,5,13759,0.728191,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+392,Hybrid,6,30,0.716888,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+392,Hybrid,7,12355,0.715134,Ookami Kodomo no Ame to Yuki,"Fantasy, Slice of Life",Movie
+392,Hybrid,8,205,0.705111,Samurai Champloo,"Action, Adventure, Comedy, Historical, Samurai, Shounen",TV
+392,Hybrid,9,523,0.703313,Tonari no Totoro,"Adventure, Comedy, Supernatural",Movie
+392,Hybrid,10,934,0.701606,Higurashi no Naku Koro ni,"Horror, Mystery, Psychological, Supernatural, Thriller",TV
+392,ALS,1,22135,1.0,Ping Pong The Animation,"Psychological, Seinen, Sports",TV
+392,ALS,2,4565,0.976393,Tengen Toppa Gurren Lagann Movie: Lagann-hen,"Action, Mecha, Sci-Fi, Space, Super Power",Movie
+392,ALS,3,10721,0.976238,Mawaru Penguindrum,"Comedy, Drama, Mystery, Psychological",TV
+392,ALS,4,19,0.972423,Monster,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV
+392,ALS,5,323,0.968166,Mousou Dairinin,"Drama, Mystery, Police, Psychological, Supernatural, Thriller",TV
+392,ALS,6,11665,0.962132,Natsume Yuujinchou Shi,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV
+392,ALS,7,26055,0.9587,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season,"Action, Adventure, Drama, Shounen, Supernatural",TV
+392,ALS,8,3002,0.95745,Gyakkyou Burai Kaiji: Ultimate Survivor,"Game, Psychological, Seinen, Thriller",TV
+392,ALS,9,6594,0.955239,Katanagatari,"Action, Adventure, Historical, Martial Arts, Romance",TV
+392,ALS,10,10379,0.954935,Natsume Yuujinchou San,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV
+392,Popularity,1,226,0.879944,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+392,Popularity,2,6746,0.772097,Durarara!!,"Action, Mystery, Supernatural",TV
+392,Popularity,3,11617,0.747236,High School DxD,"Comedy, Demons, Ecchi, Harem, Romance, School",TV
+392,Popularity,4,10793,0.736003,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",TV
+392,Popularity,5,14741,0.724389,Chuunibyou demo Koi ga Shitai!,"Comedy, Drama, Romance, School, Slice of Life",TV
+392,Popularity,6,30,0.714401,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+392,Popularity,7,13601,0.708265,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",TV
+392,Popularity,8,13759,0.702017,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+392,Popularity,9,18679,0.695653,Kill la Kill,"Action, Comedy, School, Super Power",TV
+392,Popularity,10,7054,0.67582,Kaichou wa Maid-sama!,"Comedy, Romance, School, Shoujo",TV
+741,Hybrid,1,1535,0.921256,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",TV
+741,Hybrid,2,9989,0.789305,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+741,Hybrid,3,6746,0.785664,Durarara!!,"Action, Mystery, Supernatural",TV
+741,Hybrid,4,431,0.755251,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+741,Hybrid,5,30276,0.753191,One Punch Man,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV
+741,Hybrid,6,245,0.734285,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+741,Hybrid,7,12355,0.716585,Ookami Kodomo no Ame to Yuki,"Fantasy, Slice of Life",Movie
+741,Hybrid,8,2251,0.710214,Baccano!,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV
+741,Hybrid,9,11771,0.699939,Kuroko no Basket,"Comedy, School, Shounen, Sports",TV
+741,Hybrid,10,17265,0.691139,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV
+741,ALS,1,6114,1.0,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+741,ALS,2,9969,0.998281,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+741,ALS,3,15335,0.990305,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+741,ALS,4,44,0.984835,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+741,ALS,5,245,0.973851,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+741,ALS,6,15417,0.968319,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+741,ALS,7,918,0.951701,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+741,ALS,8,19,0.945444,Monster,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV
+741,ALS,9,28891,0.944859,Haikyuu!! Second Season,"Comedy, Drama, School, Shounen, Sports",TV
+741,ALS,10,5258,0.937295,Hajime no Ippo: New Challenger,"Comedy, Drama, Shounen, Sports",TV
+741,Popularity,1,1535,1.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",TV
+741,Popularity,2,6746,0.772097,Durarara!!,"Action, Mystery, Supernatural",TV
+741,Popularity,3,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+741,Popularity,4,4898,0.671252,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+741,Popularity,5,17265,0.654768,Log Horizon,"Action, Adventure, Fantasy, Game, Magic, Shounen",TV
+741,Popularity,6,11771,0.644979,Kuroko no Basket,"Comedy, School, Shounen, Sports",TV
+741,Popularity,7,431,0.634903,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+741,Popularity,8,5680,0.627146,K-On!,"Comedy, Music, School, Slice of Life",TV
+741,Popularity,9,30276,0.627146,One Punch Man,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV
+741,Popularity,10,27899,0.613815,Tokyo Ghoul √A,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+771,Hybrid,1,199,0.81479,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+771,Hybrid,2,121,0.770702,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+771,Hybrid,3,30276,0.750572,One Punch Man,"Action, Comedy, Parody, Sci-Fi, Seinen, Super Power, Supernatural",TV
+771,Hybrid,4,431,0.750448,Howl no Ugoku Shiro,"Adventure, Drama, Fantasy, Romance",Movie
+771,Hybrid,5,20,0.748241,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+771,Hybrid,6,813,0.742301,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV
+771,Hybrid,7,11061,0.738296,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+771,Hybrid,8,22535,0.730168,Kiseijuu: Sei no Kakuritsu,"Action, Drama, Horror, Psychological, Sci-Fi, Seinen",TV
+771,Hybrid,9,6702,0.719009,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+771,Hybrid,10,269,0.715422,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+771,ALS,1,15335,1.0,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+771,ALS,2,11061,0.966812,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+771,ALS,3,19647,0.911603,Hajime no Ippo: Rising,"Comedy, Drama, Shounen, Sports",TV
+771,ALS,4,5258,0.910118,Hajime no Ippo: New Challenger,"Comedy, Drama, Shounen, Sports",TV
+771,ALS,5,44,0.908705,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+771,ALS,6,26055,0.90634,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season,"Action, Adventure, Drama, Shounen, Supernatural",TV
+771,ALS,7,199,0.893577,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+771,ALS,8,14719,0.890536,JoJo no Kimyou na Bouken (TV),"Action, Adventure, Shounen, Supernatural, Vampire",TV
+771,ALS,9,263,0.887537,Hajime no Ippo,"Comedy, Drama, Shounen, Sports",TV
+771,ALS,10,170,0.883122,Slam Dunk,"Comedy, Drama, School, Shounen, Sports",TV
+771,Popularity,1,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+771,Popularity,2,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+771,Popularity,3,6880,0.763424,Deadman Wonderland,"Action, Horror, Sci-Fi",TV
+771,Popularity,4,199,0.736003,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+771,Popularity,5,10793,0.736003,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",TV
+771,Popularity,6,6702,0.724389,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+771,Popularity,7,813,0.699909,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV
+771,Popularity,8,269,0.693505,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+771,Popularity,9,9041,0.649909,IS: Infinite Stratos,"Action, Comedy, Harem, Mecha, Sci-Fi",TV
+771,Popularity,10,11759,0.649909,Accel World,"Action, Game, Romance, School, Sci-Fi",TV
+786,Hybrid,1,6702,0.776619,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+786,Hybrid,2,2001,0.772352,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+786,Hybrid,3,813,0.768324,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV
+786,Hybrid,4,20,0.760979,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+786,Hybrid,5,121,0.749519,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+786,Hybrid,6,269,0.744424,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+786,Hybrid,7,164,0.73984,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+786,Hybrid,8,11061,0.730705,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+786,Hybrid,9,853,0.727314,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+786,Hybrid,10,4898,0.706214,Kuroshitsuji,"Action, Comedy, Demons, Fantasy, Historical, Shounen, Supernatural",TV
+786,ALS,1,9969,1.0,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+786,ALS,2,15417,0.983009,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+786,ALS,3,15335,0.960022,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+786,ALS,4,11061,0.951629,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+786,ALS,5,6114,0.947621,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+786,ALS,6,918,0.945187,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+786,ALS,7,19647,0.901746,Hajime no Ippo: Rising,"Comedy, Drama, Shounen, Sports",TV
+786,ALS,8,263,0.895607,Hajime no Ippo,"Comedy, Drama, Shounen, Sports",TV
+786,ALS,9,57,0.872447,Beck,"Comedy, Drama, Music, Shounen, Slice of Life",TV
+786,ALS,10,28891,0.868318,Haikyuu!! Second Season,"Comedy, Drama, School, Shounen, Sports",TV
+786,Popularity,1,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+786,Popularity,2,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+786,Popularity,3,6880,0.763424,Deadman Wonderland,"Action, Horror, Sci-Fi",TV
+786,Popularity,4,6702,0.724389,Fairy Tail,"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+786,Popularity,5,30,0.714401,Neon Genesis Evangelion,"Action, Dementia, Drama, Mecha, Psychological, Sci-Fi",TV
+786,Popularity,6,2001,0.704112,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+786,Popularity,7,813,0.699909,Dragon Ball Z,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV
+786,Popularity,8,269,0.693505,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+786,Popularity,9,164,0.678081,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+786,Popularity,10,853,0.673544,Ouran Koukou Host Club,"Comedy, Harem, Romance, School, Shoujo",TV
+553,Hybrid,1,5114,0.894617,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+553,Hybrid,2,4181,0.828532,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+553,Hybrid,3,2167,0.782463,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+553,Hybrid,4,2001,0.771033,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+553,Hybrid,5,226,0.765133,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+553,Hybrid,6,164,0.754387,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+553,Hybrid,7,11061,0.736144,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+553,Hybrid,8,3588,0.732087,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+553,Hybrid,9,121,0.730921,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+553,Hybrid,10,15809,0.729282,Hataraku Maou-sama!,"Comedy, Demons, Fantasy, Romance, Shounen",TV
+553,ALS,1,9969,1.0,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+553,ALS,2,15417,0.999223,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+553,ALS,3,15335,0.964309,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+553,ALS,4,11061,0.962507,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+553,ALS,5,6114,0.942387,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+553,ALS,6,918,0.938316,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+553,ALS,7,5114,0.908042,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+553,ALS,8,57,0.905377,Beck,"Comedy, Drama, Music, Shounen, Slice of Life",TV
+553,ALS,9,28891,0.898221,Haikyuu!! Second Season,"Comedy, Drama, School, Shounen, Sports",TV
+553,ALS,10,4181,0.886684,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+553,Popularity,1,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+553,Popularity,2,226,0.879944,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+553,Popularity,3,8074,0.865907,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",TV
+553,Popularity,4,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+553,Popularity,5,2167,0.810921,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+553,Popularity,6,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+553,Popularity,7,3588,0.775506,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+553,Popularity,8,4181,0.77038,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+553,Popularity,9,15809,0.752717,Hataraku Maou-sama!,"Comedy, Demons, Fantasy, Romance, Shounen",TV
+553,Popularity,10,11617,0.747236,High School DxD,"Comedy, Demons, Ecchi, Harem, Romance, School",TV
+943,Hybrid,1,4181,0.865907,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+943,Hybrid,2,9989,0.828681,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+943,Hybrid,3,2167,0.811551,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+943,Hybrid,4,199,0.80792,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+943,Hybrid,5,13759,0.784004,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+943,Hybrid,6,2001,0.778277,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+943,Hybrid,7,269,0.770561,Bleach,"Action, Comedy, Shounen, Super Power, Supernatural",TV
+943,Hybrid,8,20,0.76487,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+943,Hybrid,9,11771,0.761487,Kuroko no Basket,"Comedy, School, Shounen, Sports",TV
+943,Hybrid,10,11061,0.75489,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+943,ALS,1,11061,1.0,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+943,ALS,2,6114,0.982091,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+943,ALS,3,9969,0.970485,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+943,ALS,4,22043,0.963946,Fairy Tail (2014),"Action, Adventure, Comedy, Fantasy, Magic, Shounen",TV
+943,ALS,5,15417,0.963516,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+943,ALS,6,4181,0.961433,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+943,ALS,7,6675,0.95759,Redline,"Action, Cars, Sci-Fi, Sports",Movie
+943,ALS,8,16894,0.946338,Kuroko no Basket 2nd Season,"Comedy, School, Shounen, Sports",TV
+943,ALS,9,24415,0.942152,Kuroko no Basket 3rd Season,"Comedy, School, Shounen, Sports",TV
+943,ALS,10,4155,0.930574,One Piece Film: Strong World,"Action, Adventure, Comedy, Drama, Fantasy, Shounen",Movie
+943,Popularity,1,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+943,Popularity,2,2167,0.810921,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+943,Popularity,3,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+943,Popularity,4,4181,0.77038,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+943,Popularity,5,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+943,Popularity,6,199,0.736003,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+943,Popularity,7,5081,0.730245,Bakemonogatari,"Mystery, Romance, Supernatural, Vampire",TV
+943,Popularity,8,2001,0.704112,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+943,Popularity,9,13759,0.702017,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+943,Popularity,10,14813,0.702017,Yahari Ore no Seishun Love Comedy wa Machigatteiru.,"Comedy, Drama, Romance, School",TV
+123,Hybrid,1,5114,0.875167,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+123,Hybrid,2,1575,0.795493,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+123,Hybrid,3,4181,0.793002,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+123,Hybrid,4,2904,0.789874,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+123,Hybrid,5,6547,0.768359,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV
+123,Hybrid,6,199,0.764154,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+123,Hybrid,7,164,0.753406,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+123,Hybrid,8,2167,0.750305,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+123,Hybrid,9,121,0.739839,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+123,Hybrid,10,10620,0.738755,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+123,ALS,1,9969,1.0,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+123,ALS,2,44,0.962665,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+123,ALS,3,918,0.940681,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+123,ALS,4,15335,0.92196,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+123,ALS,5,15417,0.872726,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+123,ALS,6,5114,0.869141,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+123,ALS,7,5258,0.862889,Hajime no Ippo: New Challenger,"Comedy, Drama, Shounen, Sports",TV
+123,ALS,8,245,0.862764,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+123,ALS,9,3002,0.858985,Gyakkyou Burai Kaiji: Ultimate Survivor,"Game, Psychological, Seinen, Thriller",TV
+123,ALS,10,4565,0.853437,Tengen Toppa Gurren Lagann Movie: Lagann-hen,"Action, Mecha, Sci-Fi, Space, Super Power",Movie
+123,Popularity,1,11757,0.996459,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",TV
+123,Popularity,2,6547,0.926625,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV
+123,Popularity,3,10620,0.904079,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+123,Popularity,4,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+123,Popularity,5,226,0.879944,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+123,Popularity,6,1575,0.869793,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+123,Popularity,7,2904,0.849908,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+123,Popularity,8,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+123,Popularity,9,4224,0.812447,Toradora!,"Comedy, Romance, School, Slice of Life",TV
+123,Popularity,10,2167,0.810921,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+5,Hybrid,1,5114,0.880216,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+5,Hybrid,2,16498,0.867684,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+5,Hybrid,3,4181,0.804439,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+5,Hybrid,4,1575,0.799632,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+5,Hybrid,5,2904,0.792032,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+5,Hybrid,6,164,0.783003,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+5,Hybrid,7,121,0.772925,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+5,Hybrid,8,2001,0.770863,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+5,Hybrid,9,11741,0.762734,Fate/Zero 2nd Season,"Action, Fantasy, Supernatural, Thriller",TV
+5,Hybrid,10,2167,0.762149,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+5,ALS,1,323,1.0,Mousou Dairinin,"Drama, Mystery, Police, Psychological, Supernatural, Thriller",TV
+5,ALS,2,164,0.887924,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+5,ALS,3,2251,0.88564,Baccano!,"Action, Comedy, Historical, Mystery, Seinen, Supernatural",TV
+5,ALS,4,11665,0.883373,Natsume Yuujinchou Shi,"Drama, Fantasy, Shoujo, Slice of Life, Supernatural",TV
+5,ALS,5,44,0.881987,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+5,ALS,6,5114,0.87924,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+5,ALS,7,8740,0.877028,One Piece Film: Strong World Episode 0,"Action, Adventure, Comedy, Fantasy, Shounen, Super Power",OVA
+5,ALS,8,578,0.874605,Hotaru no Haka,"Drama, Historical",Movie
+5,ALS,9,25781,0.864814,Shingeki no Kyojin: Kuinaki Sentaku,"Action, Fantasy, Shoujo, Supernatural",OVA
+5,ALS,10,32,0.864289,Neon Genesis Evangelion: The End of Evangelion,"Dementia, Drama, Mecha, Psychological, Sci-Fi",Movie
+5,Popularity,1,16498,0.987443,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+5,Popularity,2,10620,0.904079,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+5,Popularity,3,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+5,Popularity,4,226,0.879944,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+5,Popularity,5,1575,0.869793,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+5,Popularity,6,2904,0.849908,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+5,Popularity,7,11111,0.84162,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+5,Popularity,8,2167,0.810921,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+5,Popularity,9,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+5,Popularity,10,4181,0.77038,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+954,Hybrid,1,1535,0.911633,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",TV
+954,Hybrid,2,2904,0.905253,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+954,Hybrid,3,5114,0.887629,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+954,Hybrid,4,1575,0.88405,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+954,Hybrid,5,9253,0.88363,Steins;Gate,"Sci-Fi, Thriller",TV
+954,Hybrid,6,16498,0.870677,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+954,Hybrid,7,10620,0.812465,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+954,Hybrid,8,9989,0.808971,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+954,Hybrid,9,2001,0.803189,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+954,Hybrid,10,1,0.782938,Cowboy Bebop,"Action, Adventure, Comedy, Drama, Sci-Fi, Space",TV
+954,ALS,1,19,1.0,Monster,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV
+954,ALS,2,245,0.982031,Great Teacher Onizuka,"Comedy, Drama, School, Shounen, Slice of Life",TV
+954,ALS,3,44,0.970865,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+954,ALS,4,2904,0.960598,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+954,ALS,5,11061,0.94807,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+954,ALS,6,467,0.943639,Ghost in the Shell: Stand Alone Complex,"Action, Mecha, Military, Police, Sci-Fi, Seinen",TV
+954,ALS,7,801,0.938734,Ghost in the Shell: Stand Alone Complex 2nd GIG,"Action, Mecha, Military, Mystery, Police, Sci-Fi, Seinen",TV
+954,ALS,8,457,0.938303,Mushishi,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV
+954,ALS,9,9253,0.935572,Steins;Gate,"Sci-Fi, Thriller",TV
+954,ALS,10,6675,0.931952,Redline,"Action, Cars, Sci-Fi, Sports",Movie
+954,Popularity,1,1535,1.0,Death Note,"Mystery, Police, Psychological, Supernatural, Thriller",TV
+954,Popularity,2,16498,0.987443,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+954,Popularity,3,10620,0.904079,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+954,Popularity,4,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+954,Popularity,5,226,0.879944,Elfen Lied,"Action, Drama, Horror, Psychological, Romance, Seinen, Supernatural",TV
+954,Popularity,6,1575,0.869793,Code Geass: Hangyaku no Lelouch,"Action, Mecha, Military, School, Sci-Fi, Super Power",TV
+954,Popularity,7,9919,0.858001,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+954,Popularity,8,2904,0.849908,Code Geass: Hangyaku no Lelouch R2,"Action, Drama, Mecha, Military, Sci-Fi, Super Power",TV
+954,Popularity,9,9253,0.831689,Steins;Gate,"Sci-Fi, Thriller",TV
+954,Popularity,10,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+861,Hybrid,1,19815,0.817061,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+861,Hybrid,2,2001,0.812048,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+861,Hybrid,3,199,0.807291,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+861,Hybrid,4,20,0.783117,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+861,Hybrid,5,11741,0.781435,Fate/Zero 2nd Season,"Action, Fantasy, Supernatural, Thriller",TV
+861,Hybrid,6,164,0.766859,Mononoke Hime,"Action, Adventure, Fantasy",Movie
+861,Hybrid,7,11111,0.76196,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+861,Hybrid,8,10087,0.758507,Fate/Zero,"Action, Fantasy, Supernatural",TV
+861,Hybrid,9,13759,0.757535,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+861,Hybrid,10,3588,0.744641,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+861,ALS,1,15335,1.0,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+861,ALS,2,15417,0.953829,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+861,ALS,3,6114,0.926807,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+861,ALS,4,2001,0.919984,Tengen Toppa Gurren Lagann,"Action, Adventure, Comedy, Mecha, Sci-Fi",TV
+861,ALS,5,26055,0.915729,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season,"Action, Adventure, Drama, Shounen, Supernatural",TV
+861,ALS,6,3784,0.908616,Evangelion: 2.0 You Can (Not) Advance,"Action, Mecha, Sci-Fi",Movie
+861,ALS,7,31240,0.902006,Re:Zero kara Hajimeru Isekai Seikatsu,"Drama, Fantasy, Psychological, Thriller",TV
+861,ALS,8,13125,0.896873,Shinsekai yori,"Drama, Horror, Mystery, Sci-Fi, Supernatural",TV
+861,ALS,9,21939,0.89356,Mushishi Zoku Shou,"Adventure, Fantasy, Historical, Mystery, Seinen, Slice of Life, Supernatural",TV
+861,ALS,10,14719,0.889839,JoJo no Kimyou na Bouken (TV),"Action, Adventure, Shounen, Supernatural, Vampire",TV
+861,Popularity,1,11111,0.84162,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+861,Popularity,2,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+861,Popularity,3,19815,0.801619,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+861,Popularity,4,3588,0.775506,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+861,Popularity,5,11617,0.747236,High School DxD,"Comedy, Demons, Ecchi, Harem, Romance, School",TV
+861,Popularity,6,199,0.736003,Sen to Chihiro no Kamikakushi,"Adventure, Drama, Supernatural",Movie
+861,Popularity,7,10793,0.736003,Guilty Crown,"Action, Drama, Sci-Fi, Super Power",TV
+861,Popularity,8,10087,0.732175,Fate/Zero,"Action, Fantasy, Supernatural",TV
+861,Popularity,9,14741,0.724389,Chuunibyou demo Koi ga Shitai!,"Comedy, Drama, Romance, School, Slice of Life",TV
+861,Popularity,10,11741,0.712368,Fate/Zero 2nd Season,"Action, Fantasy, Supernatural, Thriller",TV
+160,Hybrid,1,5114,0.908662,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+160,Hybrid,2,16498,0.908002,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+160,Hybrid,3,6547,0.834969,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV
+160,Hybrid,4,9989,0.822145,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+160,Hybrid,5,19815,0.797886,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+160,Hybrid,6,11741,0.79137,Fate/Zero 2nd Season,"Action, Fantasy, Supernatural, Thriller",TV
+160,Hybrid,7,10087,0.789975,Fate/Zero,"Action, Fantasy, Supernatural",TV
+160,Hybrid,8,11757,0.785053,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",TV
+160,Hybrid,9,9919,0.761256,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+160,Hybrid,10,11061,0.75489,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+160,ALS,1,11061,1.0,Hunter x Hunter (2011),"Action, Adventure, Shounen, Super Power",TV
+160,ALS,2,6114,0.985571,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+160,ALS,3,44,0.975639,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+160,ALS,4,9969,0.9752,Gintama',"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+160,ALS,5,15335,0.961871,Gintama Movie: Kanketsu-hen - Yorozuya yo Eien Nare,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",Movie
+160,ALS,6,15417,0.947688,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+160,ALS,7,5114,0.936133,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+160,ALS,8,918,0.933339,Gintama,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+160,ALS,9,28891,0.922119,Haikyuu!! Second Season,"Comedy, Drama, School, Shounen, Sports",TV
+160,ALS,10,12477,0.911891,Sakasama no Patema,"Sci-Fi, Seinen",Movie
+160,Popularity,1,11757,0.996459,Sword Art Online,"Action, Adventure, Fantasy, Game, Romance",TV
+160,Popularity,2,16498,0.987443,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+160,Popularity,3,6547,0.926625,Angel Beats!,"Action, Comedy, Drama, School, Supernatural",TV
+160,Popularity,4,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+160,Popularity,5,9919,0.858001,Ao no Exorcist,"Action, Demons, Fantasy, Shounen, Supernatural",TV
+160,Popularity,6,20,0.825883,Naruto,"Action, Comedy, Martial Arts, Shounen, Super Power",TV
+160,Popularity,7,19815,0.801619,No Game No Life,"Adventure, Comedy, Ecchi, Fantasy, Game, Supernatural",TV
+160,Popularity,8,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+160,Popularity,9,22319,0.783882,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+160,Popularity,10,3588,0.775506,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+511,Hybrid,1,16498,0.851321,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+511,Hybrid,2,4181,0.825141,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+511,Hybrid,3,10620,0.794178,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+511,Hybrid,4,11111,0.760376,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+511,Hybrid,5,13759,0.734766,Sakurasou no Pet na Kanojo,"Comedy, Drama, Romance, School, Slice of Life",TV
+511,Hybrid,6,9989,0.733145,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+511,Hybrid,7,6746,0.729889,Durarara!!,"Action, Mystery, Supernatural",TV
+511,Hybrid,8,9756,0.721822,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",TV
+511,Hybrid,9,121,0.718374,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+511,Hybrid,10,13601,0.709436,Psycho-Pass,"Action, Police, Psychological, Sci-Fi",TV
+511,ALS,1,94,1.0,Mobile Suit Gundam Seed Destiny,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV
+511,ALS,2,47,0.980555,Akira,"Action, Adventure, Horror, Military, Sci-Fi, Supernatural",Movie
+511,ALS,3,22135,0.969142,Ping Pong The Animation,"Psychological, Seinen, Sports",TV
+511,ALS,4,19,0.940555,Monster,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV
+511,ALS,5,170,0.927472,Slam Dunk,"Comedy, Drama, School, Shounen, Sports",TV
+511,ALS,6,93,0.921936,Mobile Suit Gundam Seed,"Action, Drama, Mecha, Military, Romance, Sci-Fi, Space",TV
+511,ALS,7,44,0.911634,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+511,ALS,8,6033,0.902856,Dragon Ball Kai,"Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen, Super Power",TV
+511,ALS,9,13125,0.899253,Shinsekai yori,"Drama, Horror, Mystery, Sci-Fi, Supernatural",TV
+511,ALS,10,6114,0.882677,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+511,Popularity,1,16498,0.987443,Shingeki no Kyojin,"Action, Drama, Fantasy, Shounen, Super Power",TV
+511,Popularity,2,10620,0.904079,Mirai Nikki (TV),"Action, Mystery, Psychological, Shounen, Supernatural, Thriller",TV
+511,Popularity,3,11111,0.84162,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+511,Popularity,4,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+511,Popularity,5,22319,0.783882,Tokyo Ghoul,"Action, Drama, Horror, Mystery, Psychological, Seinen, Supernatural",TV
+511,Popularity,6,6746,0.772097,Durarara!!,"Action, Mystery, Supernatural",TV
+511,Popularity,7,4181,0.77038,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+511,Popularity,8,6880,0.763424,Deadman Wonderland,"Action, Horror, Sci-Fi",TV
+511,Popularity,9,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+511,Popularity,10,9756,0.752717,Mahou Shoujo Madoka★Magica,"Drama, Magic, Psychological, Thriller",TV
+784,Hybrid,1,5114,0.938253,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+784,Hybrid,2,4181,0.86148,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+784,Hybrid,3,9989,0.831213,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
+784,Hybrid,4,11741,0.822485,Fate/Zero 2nd Season,"Action, Fantasy, Supernatural, Thriller",TV
+784,Hybrid,5,4224,0.810945,Toradora!,"Comedy, Romance, School, Slice of Life",TV
+784,Hybrid,6,2167,0.799289,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+784,Hybrid,7,121,0.784051,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+784,Hybrid,8,3588,0.756048,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+784,Hybrid,9,11111,0.751084,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+784,Hybrid,10,12355,0.740082,Ookami Kodomo no Ame to Yuki,"Fantasy, Slice of Life",Movie
+784,ALS,1,15417,1.0,Gintama': Enchousen,"Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen",TV
+784,ALS,2,5114,0.995314,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+784,ALS,3,28891,0.987086,Haikyuu!! Second Season,"Comedy, Drama, School, Shounen, Sports",TV
+784,ALS,4,44,0.980461,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,"Action, Drama, Historical, Martial Arts, Romance, Samurai",OVA
+784,ALS,5,6114,0.976618,Rainbow: Nisha Rokubou no Shichinin,"Drama, Historical, Seinen, Thriller",TV
+784,ALS,6,19,0.975568,Monster,"Drama, Horror, Mystery, Police, Psychological, Seinen, Thriller",TV
+784,ALS,7,26055,0.960082,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season,"Action, Adventure, Drama, Shounen, Supernatural",TV
+784,ALS,8,5258,0.958163,Hajime no Ippo: New Challenger,"Comedy, Drama, Shounen, Sports",TV
+784,ALS,9,4181,0.952581,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+784,ALS,10,12355,0.945523,Ookami Kodomo no Ame to Yuki,"Fantasy, Slice of Life",Movie
+784,Popularity,1,5114,0.881192,Fullmetal Alchemist: Brotherhood,"Action, Adventure, Drama, Fantasy, Magic, Military, Shounen",TV
+784,Popularity,2,8074,0.865907,Highschool of the Dead,"Action, Ecchi, Horror, Supernatural",TV
+784,Popularity,3,11111,0.84162,Another,"Horror, Mystery, School, Supernatural, Thriller",TV
+784,Popularity,4,4224,0.812447,Toradora!,"Comedy, Romance, School, Slice of Life",TV
+784,Popularity,5,2167,0.810921,Clannad,"Comedy, Drama, Romance, School, Slice of Life, Supernatural",TV
+784,Popularity,6,121,0.783882,Fullmetal Alchemist,"Action, Adventure, Comedy, Drama, Fantasy, Magic, Military, Shounen",TV
+784,Popularity,7,3588,0.775506,Soul Eater,"Action, Adventure, Comedy, Fantasy, Shounen, Supernatural",TV
+784,Popularity,8,4181,0.77038,Clannad: After Story,"Drama, Fantasy, Romance, Slice of Life, Supernatural",TV
+784,Popularity,9,6880,0.763424,Deadman Wonderland,"Action, Horror, Sci-Fi",TV
+784,Popularity,10,9989,0.759892,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,"Drama, Slice of Life, Supernatural",TV
